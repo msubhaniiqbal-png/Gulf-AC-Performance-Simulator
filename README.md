@@ -1,8 +1,12 @@
-# Gulf AC Performance Sensitivity Simulator
+﻿# Gulf AC Performance Sensitivity Simulator
 
 A Python and Streamlit-based HVAC sensitivity simulator that combines an
 idealized vapor-compression cycle model with a practical AC wattage and cost
 estimator for Gulf high-ambient and dust-fouling scenarios.
+
+## Live Demo
+
+Try the interactive Streamlit dashboard here: https://gulf-ac-performance-simulator.streamlit.app/
 
 ## Model Scope
 
