@@ -1,0 +1,6 @@
+CoolProp
+matplotlib
+numpy
+pandas
+PsychroLib
+streamlit

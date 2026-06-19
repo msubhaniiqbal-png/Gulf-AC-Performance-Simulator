@@ -1,0 +1,9 @@
+scenario,ac_type,display_name,tons,outdoor_temp_C,fouling_severity_index,average_watts,monthly_kWh,monthly_cost_QAR,penalty_vs_split_inverter_clean_baseline_QAR
+Split inverter clean baseline,split_inverter,Split AC - Inverter,1.5,35,0,975.0,351.0,63.18,0.0
+Split inverter high heat + mild dust severity,split_inverter,Split AC - Inverter,1.5,45,10,1135.6800000000003,408.8448000000001,73.59206400000001,10.412064000000008
+Split inverter extreme heat + severe dust severity,split_inverter,Split AC - Inverter,1.5,50,20,1242.5400000000002,447.3144000000001,80.51659200000002,17.336592000000017
+Split non-inverter clean baseline,split_non_inverter,Split AC - Non-inverter,1.5,35,0,1440.0,518.4000000000001,93.31200000000001,30.132000000000012
+Split non-inverter high heat + mild dust severity,split_non_inverter,Split AC - Non-inverter,1.5,45,10,1677.3120000000004,603.8323200000001,108.68981760000001,45.50981760000001
+Split non-inverter extreme heat + severe dust severity,split_non_inverter,Split AC - Non-inverter,1.5,50,20,1835.1360000000002,660.64896,118.91681279999999,55.73681279999999
+Window AC high heat + mild dust severity,window_ac,Window / Wall AC,1.5,45,10,2050.88,738.3168000000001,132.89702400000002,69.71702400000001
+Standing AC high heat + mild dust severity,standing_ac,Standing / Portable AC,1.5,45,10,2489.9400000000005,896.3784000000003,161.34811200000004,98.16811200000004
