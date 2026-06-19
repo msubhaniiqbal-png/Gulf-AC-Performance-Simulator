@@ -138,20 +138,3 @@ python src/approach_sensitivity.py
 python src/ac_cost_comparison.py
 streamlit run app/app.py
 ```
-
-## Portfolio Value
-
-This project demonstrates thermodynamics, HVAC fundamentals, Python simulation,
-engineering assumptions, energy cost analysis, dashboard development, and
-Gulf-specific engineering thinking. It is intended as a mechanical engineering
-portfolio project and conversation starter for HVAC, facilities, energy, and
-cooling-sector roles.
-
-## Future Work
-
-- Humidity and psychrometric model
-- Manufacturer performance curve validation
-- Measured power data comparison
-- Calibrated fouling or UA model
-- Qatar weather-file annual simulation
-- District cooling or chiller extension
